@@ -1,2 +1,0 @@
-# mr-config
-mr configuration
